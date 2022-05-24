@@ -230,11 +230,11 @@ footer{
 }
 
 /* Projects Page*/
-* {
+/* * {
     box-sizing: border-box;
-    /* wireframing border  */
+    wireframing border  
     border: solid 1px red !important;
-}
+}*/
 
 body{
     background:white;
